@@ -1,0 +1,12 @@
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\bin\Debug\WPFRawInput.exe
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\bin\Debug\WPFRawInput.pdb
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\obj\Debug\WinFx RawInput.csprojResolveAssemblyReference.cache
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\obj\Debug\Window1.baml
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\obj\Debug\Window1.g.cs
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\obj\Debug\MyApp.g.cs
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\obj\Debug\WPFRawInput_MarkupCompile.cache
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\obj\Debug\WPFRawInput.g.resources
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\obj\Debug\WPFRawInput.Properties.Resources.resources
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\obj\Debug\WinFx RawInput.csproj.GenerateResource.Cache
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\obj\Debug\WPFRawInput.exe
+C:\__Simon\Projekty\Winfx RawInput\WindowsApplication1\WindowsApplication1\obj\Debug\WPFRawInput.pdb
